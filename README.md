@@ -35,8 +35,8 @@ Dr. Jagadish Kumar N
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TEAM-BLUE.git
-cd TEAM-BLUE
+git clone https://github.com/YOUR_USERNAME/TEAM-FANTASTIC.git
+cd TEAM-FANTASTIC
 ```
 
 ### 2. Install dependencies
