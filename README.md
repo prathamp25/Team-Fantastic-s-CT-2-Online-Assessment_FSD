@@ -1,9 +1,16 @@
-# TEAM-BLUE – Student Team Members Management Application
+# TEAM-FANTASTIC – Student Team Members Management Application
 
 This is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to add, view, and manage team member profiles with detailed information and images.
 
 ---
+## Submitted by:
+Pratham P- RA2211027010165
+Harshit V- RA2211027010137
+Dev P- RA2211027010178
+## Under the guidance of:
+Dr. Jagadish Kumar N
 
+---
 ## 📌 Features
 
 - 🔷 **Home Page**: Welcoming landing page with navigation links.
@@ -90,25 +97,12 @@ TEAM-BLUE/
 └── package.json
 ```
 
----
-
-## 📎 Submission
-
-- Push all code to a public GitHub repo named `TEAM-BLUE`
-- Exclude `node_modules` and other unnecessary files using `.gitignore`
-- Submit the GitHub link before **1st May 2025, 12:00 PM**
 
 ---
 
 ## 👥 Team
 
-TEAM-BLUE  
-_III Year / VI Sem – SRMIST School of Computing_
-
----
-
-## 📧 Contact
-
-For any issues or suggestions, please contact your course coordinator or project mentor.
+TEAM-FANTASTIC
+_III Year / VI Sem 
 
 ---
